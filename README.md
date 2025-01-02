@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shriharikasar07" target="blank"><img src="https://img.shields.io/twitter/follow/shriharikasar07?logo=twitter&style=for-the-badge" alt="shriharikasar07" /></a> </p>
 
-- 🔭 I’m currently working on [Java Programming For Second Year Engineering](https://github.com/ShrihariKasar/Java-Programs)
+- 🔭 I’m currently working as Intern at NetLeap IT Training And Solutions(https://github.com/ShrihariKasar/Java-Programs)
 
-- 🌱 I’m currently learning **Web Development, React, Bootstrap, Still Counting**
+- 🌱 I’m currently learning **Artificial Intelligence, Python,Web Development, React, Bootstrap, Still Counting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
