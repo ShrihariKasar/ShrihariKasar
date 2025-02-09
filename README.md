@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shriharikasar07" target="blank"><img src="https://img.shields.io/twitter/follow/shriharikasar07?logo=twitter&style=for-the-badge" alt="shriharikasar07" /></a> </p>
 
-- 🔭 I’m currently working as Intern at NetLeap IT Training And Solutions
+- 🎓 I'm currently Earning a **Bachelor's in Computer Engineering...!**
+
+- 🔭 I have worked as **AI Intern** at NetLeap IT Training And Solutions ( 23 December 2024 to 30 February 2025)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Python,Web Development, React, Bootstrap, Still Counting**
 
