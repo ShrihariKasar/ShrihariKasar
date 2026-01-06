@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="shri.png" alt="shriharikasar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriharikasar" alt="shriharikasar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shriharikasar07" target="blank"><img src="https://img.shields.io/twitter/follow/shriharikasar07?logo=twitter&style=for-the-badge" alt="shriharikasar07" /></a> </p>
 
 - 🎓 I'm currently Earning a **Bachelor's in Computer Engineering...!**
